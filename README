@@ -1,18 +1,12 @@
-Linuzi kernel
-=============
+Powernova Kernel
+===============
 
-The Problem with N x Uzi
+The Powernova Linux Kernel, shortened to Powernova Kernel is a kernel customized enough for speed on AMD Bulldozer derived CPUs, they include all the AMD FX and most of the AMD PRO series (That dont base off any Zen arch)
+Whatever works for me, this is a very barely customized kernel that just tries to implement Linux Zen and mix them with the Arch Specific Kernel, also using fixes for the Android Common Kernel, The Generic Kernel Image and the Android Generic Kernel, basically mixing the kernels for an attempt to an "Universal kernel"
+Powernova comes from the following:
+Power - Power
+nova - new
+Powernova = New Power
+Powernova Linux Kernel = New Power Linux Kernel
 
-This post isn't meant to be offensive, it is just explaining why N x Uzi shouldn't work.
-
-First off, there's the obvious problem of Uzi and N clearly having crushes on Thad and V. This is undeniable, since N says it himself he has a crush on V, and Uzi not only acts embarrassed when Thad compliments her bandages, but also straight up calls him attractive right before the fight scene in episode one.
-
-Exact quote: "Put that confessionally attractive male down!" - Uzi
-
-Secondly, there's the way they act towards each other. N is clearly seeing Uzi as a friend, or at least for emotional support. It is clear N is... in the least offensive way, special, since he gets yelled at and beaten by the people he still thinks are his friends. He also has extreme loyalty to his "friends", which can often be misread as love. As for Uzi, she, to be brutally honest, also abuses N. Constantly hitting him, yelling at him, and scolding him, just like the other murder drones. Clearly, Uzi does not have love for N, which is to be expected, as he killed dozens of her friends and ancestors.
-
-J: "N, you are worthless and terrible, (N: "thank you") and if the company allowed it, I would kill you myself".
-
-N after flashback: "J's awesome"
-
-https://www.reddit.com/r/MurderDrones/comments/zgi6cj/the_problem_with_n_x_uzi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+Thank you fry for teaching me that you can do funny shit here, ilysm
